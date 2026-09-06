@@ -40,48 +40,136 @@ I'm a Computer Engineering student focused on building Python backend systems, R
 
 🛠️ Tech Stack
 
-👨‍💻 Programming
+💻 Languages
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python"/><br/>
+  <b>Python</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++"/><br/>
+  <b>C++</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44" alt="Java"/><br/>
+  <b>Java</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/><br/>
+  <b>JavaScript</b>
+</td>
+</tr>
+</table>
 
 ⚙️ Backend Development
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" height="42" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" height="42" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" height="42" alt="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="44" height="44" alt="Django"/><br/>
+  <b>Django</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI"/><br/>
+  <b>FastAPI</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="44" height="44" alt="Flask"/><br/>
+  <b>Flask</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker"/><br/>
+  <b>Docker</b>
+</td>
+</tr>
+</table>
 
-Django REST Framework • REST APIs • JWT • Celery • Redis • Postman
+<p align="center">
+  <b>Django REST Framework</b> • <b>REST APIs</b> • <b>JWT Authentication</b> • <b>Celery</b> • <b>Redis</b> • <b>Postman</b>
+</p>
 
 🗄️ Databases & Cloud
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" height="42" alt="Azure"/>
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/><br/>
+  <b>PostgreSQL</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL"/><br/>
+  <b>MySQL</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB"/><br/>
+  <b>MongoDB</b>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="44" height="44" alt="Azure"/><br/>
+  <b>Azure</b>
+</td>
+</tr>
+</table>
 
 🤖 AI / ML / Data
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" height="42" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-learn"/>
+<table>
+<tr>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow"/><br/>
+  <b>TensorFlow</b>
+</td>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="44" height="44" alt="PyTorch"/><br/>
+  <b>PyTorch</b>
+</td>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy"/><br/>
+  <b>NumPy</b>
+</td>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="44" height="44" alt="Pandas"/><br/>
+  <b>Pandas</b>
+</td>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" alt="Scikit-learn"/><br/>
+  <b>Scikit-learn</b>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>NLP</b> • <b>TF-IDF</b> • <b>Sentence Transformers</b> • <b>LSTM</b> • <b>SHAP</b> • <b>LLMs</b> • <b>RAG</b> • <b>Ollama</b>
 </p>
 
-NLP • TF-IDF • Sentence Transformers • LSTM • SHAP • LLMs • RAG • Ollama
+🔧 Tools & Workflow
+
+<table>
+<tr>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
+  <b>Git</b>
+</td>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
+  <b>GitHub</b>
+</td>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br/>
+  <b>VS Code</b>
+</td>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
+  <b>React</b>
+</td>
+<td align="center" width="20%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/><br/>
+  <b>Streamlit</b>
+</td>
+</tr>
+</table>
 
 🚀 Featured Projects
 
