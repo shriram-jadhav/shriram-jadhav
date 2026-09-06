@@ -1,8 +1,8 @@
 <div align="center">
 
-👋 Hi, I'm Shriram Jadhav
+# 👋 Hi, I'm Shriram Jadhav
 
-🐍 Python Backend Developer • Django • REST APIs • AI/ML
+### 🐍 Python Backend Developer • Django • REST APIs • AI/ML
 
 <p>
   <a href="https://github.com/shriram-jadhav">
@@ -16,284 +16,400 @@
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shriram-jadhav&label=Profile%20Views&style=flat" alt="Profile views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=shriram-jadhav&label=Profile%20Views&style=flat" alt="Profile Views"/>
 
 </div>
 
-🧑‍💻 About Me
+---
 
-I'm a Computer Engineering student focused on building Python backend systems, REST APIs, AI/ML applications, and data-driven products.
+## 🧑‍💻 About Me
 
-🔭 Currently building and exploring AI-powered backend systems and LLM applications
+I'm a **Computer Engineering student** focused on building reliable backend systems, REST APIs, AI/ML applications, and data-driven products.
 
-🐍 Backend: Python, Django, Django REST Framework, FastAPI
+* 🔭 Building and exploring **AI-powered backend systems and LLM applications**
+* 🐍 Backend: **Python, Django, Django REST Framework, FastAPI**
+* 🗄️ Databases: **PostgreSQL, MySQL, MongoDB, Redis**
+* 🤖 AI/ML: **Machine Learning, NLP, LLMs, RAG, Embeddings & Intelligent Automation**
+* 🏗️ Currently learning **System Design and Cloud Architecture**
+* ☁️ Exploring **Microsoft Azure**
+* 🚀 I enjoy turning ideas into **complete, working products**
+* 💡 Interested in **Backend Engineering + AI Engineering**
 
-🗄️ Databases: PostgreSQL, MySQL, MongoDB, Redis
+---
 
-🤖 AI/ML: NLP, ML, LLMs, RAG, embeddings and intelligent automation
+# 🛠️ Tech Stack
 
-☁️ Currently learning System Design and Azure
-
-🚀 I enjoy turning ideas into complete, working products
-
-🛠️ Tech Stack
-
-💻 Languages
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python"/><br/>
-  <b>Python</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++"/><br/>
-  <b>C++</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44" alt="Java"/><br/>
-  <b>Java</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/><br/>
-  <b>JavaScript</b>
-</td>
-</tr>
-</table>
-
-⚙️ Backend Development
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="44" height="44" alt="Django"/><br/>
-  <b>Django</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI"/><br/>
-  <b>FastAPI</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="44" height="44" alt="Flask"/><br/>
-  <b>Flask</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker"/><br/>
-  <b>Docker</b>
-</td>
-</tr>
-</table>
+### 👨‍💻 Languages
 
 <p align="center">
-  <b>Django REST Framework</b> • <b>REST APIs</b> • <b>JWT Authentication</b> • <b>Celery</b> • <b>Redis</b> • <b>Postman</b>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript&perline=4" />
 </p>
-
-🗄️ Databases & Cloud
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL"/><br/>
-  <b>PostgreSQL</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL"/><br/>
-  <b>MySQL</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" alt="MongoDB"/><br/>
-  <b>MongoDB</b>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="44" height="44" alt="Azure"/><br/>
-  <b>Azure</b>
-</td>
-</tr>
-</table>
-
-🤖 AI / ML / Data
-
-<table>
-<tr>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow"/><br/>
-  <b>TensorFlow</b>
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="44" height="44" alt="PyTorch"/><br/>
-  <b>PyTorch</b>
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy"/><br/>
-  <b>NumPy</b>
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="44" height="44" alt="Pandas"/><br/>
-  <b>Pandas</b>
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" alt="Scikit-learn"/><br/>
-  <b>Scikit-learn</b>
-</td>
-</tr>
-</table>
 
 <p align="center">
-  <b>NLP</b> • <b>TF-IDF</b> • <b>Sentence Transformers</b> • <b>LSTM</b> • <b>SHAP</b> • <b>LLMs</b> • <b>RAG</b> • <b>Ollama</b>
+  <b>Python</b> • <b>C++</b> • <b>Java</b> • <b>JavaScript</b>
 </p>
 
-🔧 Tools & Workflow
+---
+
+### ⚙️ Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,redis,docker,git,postman&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+</p>
+
+---
+
+### 🗄️ Databases & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,azure&perline=5" />
+</p>
+
+<p align="center">
+  <b>PostgreSQL</b> • <b>MySQL</b> • <b>MongoDB</b> • <b>Redis</b> • <b>Azure</b>
+</p>
+
+---
+
+### 🤖 AI / ML / Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Machine Learning</b> • <b>NLP</b> • <b>TF-IDF</b> • <b>Embeddings</b> • <b>RAG</b> • <b>LLMs</b> • <b>LSTM</b> • <b>SHAP</b>
+</p>
+
+---
+
+### 🧰 Tools & Engineering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=5" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+### 🧠 Currently Exploring
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/System%20Design-Architecture-0A66C2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AI%20Engineering-LLM%20Applications-6E40C9?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Advanced%20Backend-Scalable%20Systems-092E20?style=for-the-badge" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
-  <b>Git</b>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI-Powered Job Tracker</h3>
+
+Full-stack job application platform with:
+
+* 📄 Resume parsing
+* 🧠 ML-based Resume/JD scoring
+* 📊 Interview probability prediction
+* 🔍 SHAP explainability
+* 📈 Analytics dashboard
+* 🔐 JWT authentication
+* 📧 Automated email reminders
+
+**Stack**
+
+`Django` `DRF` `PostgreSQL` `React` `Scikit-learn` `spaCy` `PyMuPDF` `Celery` `Redis`
+
+<br>
+
+<a href="https://github.com/shriram-jadhav">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
 </td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/><br/>
-  <b>GitHub</b>
+
+<td width="50%" valign="top">
+
+<h3>📈 Stock Prediction Portal</h3>
+
+Full-stack stock forecasting application using an LSTM-based time-series model with a Django REST backend and React frontend.
+
+**Features**
+
+* 📊 Historical stock data
+* 🧠 LSTM forecasting
+* 📈 Time-series analysis
+* 🔌 REST API backend
+* ⚛️ React frontend
+
+**Stack**
+
+`Django REST` `React` `TensorFlow` `Keras` `LSTM` `yFinance`
+
+<br>
+
+<a href="https://github.com/shriram-jadhav">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
 </td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/><br/>
-  <b>VS Code</b>
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
-  <b>React</b>
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/><br/>
-  <b>Streamlit</b>
-</td>
+
 </tr>
-</table>
-
-🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-🤖 AI-Powered Job Tracker
-
-Full-stack job application platform with resume parsing, ML-based resume/JD scoring, interview probability prediction, SHAP explainability, analytics, JWT authentication, and automated email reminders.
-
-Stack: Django • DRF • PostgreSQL • React • Scikit-learn • spaCy • PyMuPDF • Celery • Redis
-
-View Repository →
-
-</td>
-
-<td width="50%">
-
-📈 Stock Prediction Portal
-
-Full-stack stock forecasting application using an LSTM time-series model with a Django REST backend and React frontend.
-
-Stack: Django REST • React • TensorFlow/Keras • LSTM • yFinance
-
-View Repository →
-
-</td>
-</tr>
 
 <tr>
-<td width="50%">
 
-💰 Expense Tracker & Analytics
+<td width="50%" valign="top">
 
-Python-based expense management and analytics project focused on turning transaction data into useful insights through an interactive dashboard.
+<h3>💰 Expense Tracker & Analytics</h3>
 
-Stack: Python • MySQL • Pandas • Streamlit
+Python-based expense management and analytics application focused on turning transaction data into useful financial insights.
 
-View Repository →
+**Features**
+
+* 💸 Expense management
+* 📊 Data analytics
+* 📈 Interactive dashboard
+* 🗄️ MySQL database
+* 🐼 Data processing with Pandas
+
+**Stack**
+
+`Python` `MySQL` `Pandas` `Streamlit`
+
+<br>
+
+<a href="https://github.com/shriram-jadhav">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-🏢 Godrej AI Agent
+<h3>🏢 Godrej AI Agent</h3>
 
-AI/data solution built for a business-assignment use case, combining data processing, rule-based analysis and local LLM capabilities.
+AI/data solution developed for a business-assignment use case combining data processing, rule-based analysis, and local LLM capabilities.
 
-Stack: Python • Pandas • OpenPyXL • Mistral • Ollama
+**Features**
 
-View Repository →
+* 📊 Excel data processing
+* 🧠 Rule-based analysis
+* 🤖 Local LLM integration
+* ⚡ Automated data workflows
+
+**Stack**
+
+`Python` `Pandas` `OpenPyXL` `Mistral` `Ollama`
+
+<br>
+
+<a href="https://github.com/shriram-jadhav">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
+
 </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/shriram-jadhav?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github" alt="Explore all repositories"/>
+    <img src="https://img.shields.io/badge/🚀%20Explore%20All%20Repositories-181717?style=for-the-badge" />
   </a>
 </p>
 
-📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shriram-jadhav&theme=github_dark" alt="GitHub statistics"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shriram-jadhav&theme=github_dark" alt="Repositories by language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shriram-jadhav&theme=github_dark" alt="GitHub Statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shriram-jadhav&theme=github_dark" alt="Repositories by Language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shriram-jadhav&theme=github_dark" alt="Most committed languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shriram-jadhav&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shriram-jadhav&theme=github_dark" alt="Most Committed Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shriram-jadhav&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 </p>
 
-🔥 Contribution Streak
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shriram-jadhav&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=shriram-jadhav&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
-📈 Contribution & Commit Activity
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriram-jadhav&theme=github_dark" alt="GitHub contribution graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriram-jadhav&theme=github_dark" alt="GitHub Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriram-jadhav&theme=github-compact&hide_border=true&area=true&radius=8" alt="GitHub activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriram-jadhav&theme=github-compact&hide_border=true&area=true&radius=8" alt="GitHub Activity Graph"/>
 </p>
 
-📌 Current Focus
+---
+
+# 📌 Current Focus
 
 <table>
 <tr>
-<td align="center" width="25%">🐍<br><b>Python Backend</b><br>Django • DRF • APIs</td>
-<td align="center" width="25%">🤖<br><b>AI / ML</b><br>NLP • LLMs • RAG</td>
-<td align="center" width="25%">🏗️<br><b>System Design</b><br>Architecture • Scalability</td>
-<td align="center" width="25%">☁️<br><b>Cloud</b><br>Azure • Deployment</td>
+
+<td align="center" width="25%">
+
+🐍
+
+### Python Backend
+
+Django
+DRF
+REST APIs
+Backend Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+🤖
+
+### AI / ML
+
+Machine Learning
+NLP
+LLMs
+RAG
+
+</td>
+
+<td align="center" width="25%">
+
+🏗️
+
+### System Design
+
+Architecture
+Scalability
+Distributed Systems
+API Design
+
+</td>
+
+<td align="center" width="25%">
+
+☁️
+
+### Cloud
+
+Azure
+Deployment
+Cloud Architecture
+DevOps
+
+</td>
+
 </tr>
 </table>
 
-🌱 Currently Learning
+---
 
-System Design → Azure → Advanced Backend Architecture → AI Engineering
+# 🌱 Currently Learning
 
-🤝 Let's Connect
+```text
+System Design
+      ↓
+Cloud & Azure
+      ↓
+Advanced Backend Architecture
+      ↓
+Distributed Systems
+      ↓
+AI Engineering
+      ↓
+LLM Applications & RAG
+```
+
+---
+
+# 🎯 Engineering Interests
 
 <p align="center">
-  <a href="https://github.com/shriram-jadhav">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:shriram26102004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/shriram-jadhav?tab=projects">
-    <img src="https://img.shields.io/badge/GitHub-Projects-0e75b6?style=for-the-badge&logo=github" alt="Projects"/>
-  </a>
+
+<img src="https://img.shields.io/badge/Backend%20Engineering-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/API%20Development-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Engineering-6E40C9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Engineering-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
 </p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/shriram-jadhav">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:shriram26102004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/shriram-jadhav?tab=projects">
+  <img src="https://img.shields.io/badge/GitHub-Projects-0e75b6?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-⚡ Build. Learn. Break. Improve. Repeat.
+### ⚡ Build. Learn. Break. Improve. Repeat.
 
-Thanks for visiting my profile!
+**Thanks for visiting my profile! ⭐**
 
 </div>
